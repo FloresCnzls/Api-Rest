@@ -1,0 +1,28 @@
+[
+
+    {
+        "id": "0",
+        "Nombre": "Rafael Ernesto Flores Canizales",
+        "Carne": "FC202823"
+    },
+    {
+        "id": "1",
+        "Nombre": "Andrea Lisseth Demata Moreno",
+        "Carne": "DM221223"
+    },
+    {
+        "id": "2",
+        "Nombre": "Marvin Alexander Alvarado Vásquez",
+        "Carne": "AV181694"
+    },
+    {
+        "id": "3",
+        "Nombre": "Jared Aarón Azcúnaga Melgar",
+        "Carne": "AM220987"
+    },
+    {
+        "id": "4",
+        "Nombre": "Walter Rodrigo Cuéllar Vásquez",
+        "Carne": "CV202820"
+    }
+]
